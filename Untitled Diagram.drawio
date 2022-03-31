@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T20:20:23.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="78QnXUD8TRmdH8xUKaex" version="17.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-31T20:21:05.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="m1EdLNEg_nSHKK7nbJvs" version="17.3.0" type="github">
   <diagram id="E1khFoBKNFC2EEJ2y39V" name="Page-1">
     <mxGraphModel dx="946" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="dVs6kYJUzrnwVYQAE8LV-16" value="ELB" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="474.5" y="20" width="75.5" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dVs6kYJUzrnwVYQAE8LV-17" value="S3 Glacier" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1.6299999999999955" y="430" width="83.75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
